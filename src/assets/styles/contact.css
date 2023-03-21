@@ -1,0 +1,22 @@
+.little-text{
+    color: rgb(77, 77, 77);
+    font-size: 15px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 0 100px 44px 100px;
+}
+
+p.content.content-contact{
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a.my-email {
+    color: #F24E1E;
+}

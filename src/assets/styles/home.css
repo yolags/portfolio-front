@@ -1,0 +1,14 @@
+.im-title{
+    font-size: 60px;
+    font-weight: 400;
+}
+
+p.im-content {
+    width: 60%;
+    background: #0d0c0c 92%;
+}
+
+.icon-heart {
+    width: 100%;
+    text-align: center;
+}
