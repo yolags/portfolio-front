@@ -20,3 +20,22 @@ a:-webkit-any-link {
 a.my-email {
     color: #F24E1E;
 }
+
+.title-orange{
+    font-size: 45px;
+    width: 25%;
+    margin-left: 200px;
+    margin-top: 0;
+    font-weight: 500;
+    color: #F24E1E;
+}
+
+div.rrss{
+    padding-top: 20px;
+    width: 65%;
+    margin:0 auto;
+}
+
+.icon-space{
+    padding-inline-start: 30px;
+}
